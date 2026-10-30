@@ -5,7 +5,7 @@
 ## Getting Started
 
 
-To run the project and start the server, use the following command:
+To run the project and start the server, navigate to the project folder and then use the following command:
 ```bash
 swift run App serve --hostname 0.0.0.0 --port 8080
 ```
